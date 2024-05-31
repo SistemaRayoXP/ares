@@ -1,0 +1,21 @@
+Faltas acumuladas: 0
+Retardos acumulados: 1
+Tareas realizadas: 10
+Calificación de la actividad 1: 1000
+Calificación de la actividad 2: 100
+Calificación de la actividad 3: 100
+Calificación de la actividad 4: 100
+Calificación de la actividad 5: 100
+Calificación de la actividad 6: 100
+Calificación de la actividad 7: 100
+Calificación de la actividad 8: 100
+Calificación de la actividad 9: 100
+Calificación del examen 1: 100
+Calificación del examen 2: 100
+Calificación del examen 3: 100
+Tareas	Actividades	Exámenes	
+7	126		30
+Total de asistencias=          33.6667
+Porcentaje de asistencias=     99.0196	Tiene derecho
+Calificación final=            163	Calificación aprobatoria
+Alumn@ aprobad@
